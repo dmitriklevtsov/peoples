@@ -57,7 +57,7 @@ def main():
     'Ъ': 'Ъ̋͠', 'Ы': 'Ы̋͠', 'Ь': 'Ь̋',
     'Э': 'Э͒͠͠', 'Ю': 'Ю̋͠', 'Я': 'Я̋',
     ' ': ' '
-}
+    }
 
     for key in run_dict.keys():
       skill_1 = skill_1.replace(key, str(run_dict[key]))
