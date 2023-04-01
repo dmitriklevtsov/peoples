@@ -8,7 +8,7 @@ def main():
 
   for i in range(1,11):
   
-    first_name = 	fake.first_name_male()
+    first_name = fake.first_name_male()
     last_name = fake.last_name_male()
     job = fake.job()
     town = fake.city()	
